@@ -1,0 +1,3 @@
+image,true_class,predicted_class,correct,top1_confidence
+data\crop_health\test\Tomato___Early_blight\phone_photo_01.jpg.webp,Tomato___Early_blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,False,0.674839
+data\crop_health\test\Tomato___healthy\phone_photo_03.jpg.webp,Tomato___healthy,Tomato___Leaf_Mold,False,0.468092

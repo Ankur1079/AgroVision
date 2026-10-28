@@ -1,0 +1,10 @@
+{
+  "test_loss": 0.25093630142337714,
+  "test_accuracy": 0.9210172392713045,
+  "test_macro_recall": 0.9013353195863013,
+  "best_validation_accuracy": 0.9261901832943782,
+  "test_images": 8179,
+  "classes": 38,
+  "checkpoint": "C:\\Users\\ankur\\OneDrive\\Desktop\\AgroVision_Starter\\ml\\models\\plant_disease_mobilenet_v3_small.pth",
+  "sampled_run": false
+}

@@ -1,0 +1,18 @@
+{
+  "dataset": "C:\\Users\\ankur\\OneDrive\\Desktop\\AgroVision_Starter\\ml\\data\\crop_health\\test",
+  "checkpoint": "C:\\Users\\ankur\\OneDrive\\Desktop\\AgroVision_Starter\\ml\\models\\plant_disease_mobilenet_v3_small.pth",
+  "num_images": 2,
+  "num_model_classes": 38,
+  "num_classes_present": 2,
+  "classes_present": [
+    "Tomato___Early_blight",
+    "Tomato___healthy"
+  ],
+  "accuracy": 0.0,
+  "macro_precision": 0.0,
+  "macro_recall": 0.0,
+  "macro_f1": 0.0,
+  "mean_top1_confidence": 0.5714655965566635,
+  "expected_calibration_error_10_bins": 0.5714655965566635,
+  "note": "Results apply only to these labeled images. A tiny sample is not a reliable estimate of field performance. Softmax confidence is not the probability that a prediction is correct."
+}
